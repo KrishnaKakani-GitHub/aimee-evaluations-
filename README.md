@@ -1,2 +1,1 @@
-# Aimee-evaluations-
-Tracks and analyzes conversations with AI voice agents. Captures transcripts for evaluating responses and iteratively refining agent behavior. Supports a loop of conversation → evaluation → re-conversation, helping document and improve voice agents over time.
+Aimee-evaluationsEvaluation framework for Aimee, a real-time multimodal AI healthcare assistant. Captures and analyzes voice-agent conversation transcripts to assess conversational accuracy, contextual reasoning, and workflow performance. Supports an iterative conversation → evaluation → refinement loop across 150+ structured test scenarios, documenting edge cases and driving continuous improvement of agent behavior in HIPAA-aligned clinical environments.
